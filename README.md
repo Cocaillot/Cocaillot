@@ -8,7 +8,7 @@ I'm a **first-year student in a BUT Informatique** program, passionate about sof
 
 - **Languages:** C, C++, C#, Python, Java, Kotlin, JavaScript, HTML/CSS
 - **Development Environments:** Linux (Arch), Windows
-- **Tools & Frameworks:** Git, CMake, Vim, Android Studio.
+- **Tools & Frameworks:** Git, CMake, Vim, Android Studio, .NEt MAUI.
 - **Interests:** Mobile development, automation, logic challenges, cybersecurity, computer hardware.
 
 ## 📌 Featured Projects
@@ -39,7 +39,7 @@ I'm a **first-year student in a BUT Informatique** program, passionate about sof
 
 ## 📫 Connect with Me
 
-- 💼 Looking for an **alternance** next year
+- 💼 Looking for an **internship**
 - 📧 Feel free to reach out for collaboration or discussions on any of my projects!
 - ✉️ Email: cocaillot@gmail.com
 ---
